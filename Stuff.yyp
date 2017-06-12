@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "42bdc997-94e2-4c0e-9abf-03b06c2446c2",
+            "Value": {
+                "id": "a45eff28-50ba-4628-9857-d6dd061897a7",
+                "resourcePath": "sprites\\spr_thwompa\\spr_thwompa.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "43f1330d-63af-4554-9863-71a49f778566",
             "Value": {
                 "id": "3cebca6a-72d6-448c-89f2-f63229b7d86a",
