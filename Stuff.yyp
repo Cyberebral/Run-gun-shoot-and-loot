@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "2f34e07b-32a6-4d20-90f6-9de97e46081d",
+            "Value": {
+                "id": "84f6c7f1-1a20-4404-9858-4c1de8db00c3",
+                "resourcePath": "sprites\\spr_yoyo\\spr_yoyo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2fb095ad-c62b-49d6-9b1a-cbc2152c3203",
             "Value": {
                 "id": "e133cd32-a584-4b37-ac08-15c15afcae38",
