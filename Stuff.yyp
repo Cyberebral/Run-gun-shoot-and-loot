@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "8d88da4c-fd33-4a29-a01b-ad8c58488002",
+            "Value": {
+                "id": "4772dc65-10aa-4b21-b067-66cdce14e993",
+                "resourcePath": "sprites\\spr_bowlman\\spr_bowlman.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "91f68089-97af-4fc1-9428-55392fa0230d",
             "Value": {
                 "id": "69a92783-75b3-482a-8eea-f5207b369e05",
