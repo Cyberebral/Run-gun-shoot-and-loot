@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "351f9b2c-0917-43c3-b4d7-1bc529806090",
+            "Value": {
+                "id": "02d2c8e8-83c1-4b2f-9db7-9ccc8ebdae33",
+                "resourcePath": "sprites\\nannerman\\nannerman.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "40f9506a-2b32-4ff8-8097-370c26322dfe",
             "Value": {
                 "id": "af3a9e42-c878-4f0e-beed-379755201c03",
