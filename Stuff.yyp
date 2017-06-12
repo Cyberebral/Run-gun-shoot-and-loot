@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "a952e7ba-c9fe-4889-a1d1-ba6a9b3d1e79",
+            "Value": {
+                "id": "e62a2347-1172-4ee8-88d3-3aa2c0e87456",
+                "resourcePath": "sprites\\spr_wave\\spr_wave.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ab06bc38-6d2c-4fb0-b8e0-252f05f1111e",
             "Value": {
                 "id": "08f5f2fe-c046-40d5-826c-f09cc5b64e24",
