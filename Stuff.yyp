@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "be5a691d-7c21-48cc-9381-8e4292ee5161",
+            "Value": {
+                "id": "1e1f76d4-ddda-46c1-b40a-ddb9f9b1ae0f",
+                "resourcePath": "sprites\\spr_grasso\\spr_grasso.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c0556981-7878-4001-8f56-d7f296c0eb9b",
             "Value": {
                 "id": "dc588684-6372-4fa3-b903-c2d4ed865e56",
